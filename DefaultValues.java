@@ -19,12 +19,5 @@ public class DefaultValues {
         System.out.println("Deafuault boolean value :" + obj.bool);
         System.out.println("Deafuault long value :" + obj.l);
         
-        
-
-
-
-
-
-        
     }
 }
